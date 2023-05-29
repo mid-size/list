@@ -1,0 +1,10 @@
+﻿Name;Link;Open Source;License;Maker;Single Maker;Corporate Entity;Active;Self Hosted;Hosted;Starting at $;Pricing page;PLM;MES
+myparts;https://myparts.io/;N;N/A;Unexpected Maker;Y;N;Y;N;Y;3;https://www.patreon.com/unexpectedmaker;Y;N
+PartsBox;https://partsbox.com/;N;N/A;Jan Rychter;Y;N;Y;N;Y;49;https://partsbox.com/pricing.html;Y;N
+PartDB;https://github.com/Part-DB/Part-DB-server;Y;AGPL;Jan Böhmer ;Y;N;Y;Y;N;;;Y;N
+Aligni;https://www.aligni.com/;N;N/A;Aligni Incorporated;N;Y;Y;N;Y;31;https://www.aligni.com/pricing/;Y;Y
+PartKeepr;https://partkeepr.org/;Y;GPL;PartKeepr community;N;N;N;Y;N;;;Y;N
+Odoo;https://www.odoo.com/de_DE/app/inventory;Y;LGPL;Odoo community;N;Y;Y;Y;Y;60;https://www.odoo.sh/pricing;Y;Y
+InvenTree;https://inventree.org/;Y;MIT;InvenTree community;N;N;Y;Y;N;;;Y;Y
+BOMIST;https://bomist.com/;N;N/A;N/A;N;N;Y;N;Y;10;https://bomist.com/pricing;Y;Y
+OpenBom;https://www.openbom.com/;N;N/A;Newman Cloud, Inc;N;Y;Y;N;Y;350;https://www.openbom.com/pricing;Y;N
